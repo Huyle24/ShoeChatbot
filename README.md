@@ -6,7 +6,7 @@ DB: MongoDB
 Chatbot: Dialogflow, Komunicate
 ```
 ## Mô tả:
-***Role Admin:*** 
+***Role Admin:***  \n
 - Dashboard thống kê số liệu
 - Quản lý mã giảm giá
 - Quản lý sản phẩm, đơn hàng
