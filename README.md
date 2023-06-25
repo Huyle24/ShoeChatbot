@@ -1,9 +1,11 @@
 # ShoeChatbot
-**FE:** Reactjs
-**BE:** Nodejs (MVC)
-**DB:** MongoDB
-**Chatbot:** Dialogflow, Komunicate
-**Mô tả:**
+```
+FE: Reactjs
+BE: Nodejs (MVC)
+DB: MongoDB
+Chatbot: Dialogflow, Komunicate
+```
+## Mô tả:
 ***Role Admin:*** 
 - Dashboard thống kê số liệu
 - Quản lý mã giảm giá
