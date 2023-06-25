@@ -1,5 +1,6 @@
 # ShoeChatbot
-**  FE: Reactjs **
+** FE: Reactjs**
+**This is bold text**
 # BE: Nodejs (MVC)
 # DB: MongoDB
 # Chatbot: Dialogflow, Komunicate
