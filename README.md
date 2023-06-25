@@ -6,7 +6,7 @@ DB: MongoDB
 Chatbot: Dialogflow, Komunicate
 ```
 ## Use case
-!{}(https://i.imgur.com/NuwO1Sl.png)
+![](https://i.imgur.com/NuwO1Sl.png)
 ## Mô tả:
 ***Role Admin:***  <br>
 - Dashboard thống kê số liệu
