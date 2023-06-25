@@ -20,4 +20,9 @@ Chatbot: Dialogflow, Komunicate
 - Chatbot tư vấn khách hàng
   ## Màn hình <br>
   _Home_ 
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.imgur.com/NW8BQs6.jpg)
+  ![](https://i.imgur.com/NW8BQs6.jpg)
+  _Product_
+  ![]([https://i.imgur.com/NW8BQs6.jpg](https://i.imgur.com/jO7YKdF.png)https://i.imgur.com/jO7YKdF.png)
+  _Admin_
+    ![]([[https://i.imgur.com/NW8BQs6.jpg](https://i.imgur.com/jO7YKdF.png)https://i.imgur.com/jO7YKdF.png](https://i.imgur.com/jO7YKdF.png)https://i.imgur.com/jO7YKdF.png)
+  
