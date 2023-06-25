@@ -22,7 +22,7 @@ Chatbot: Dialogflow, Komunicate
   _Home_ 
   ![](https://i.imgur.com/NW8BQs6.jpg)
   _Product_
-  ![]([https://i.imgur.com/NW8BQs6.jpg](https://i.imgur.com/jO7YKdF.png)https://i.imgur.com/jO7YKdF.png)
+  ![](https://i.imgur.com/jO7YKdF.png)
   _Admin_
-    ![]([[https://i.imgur.com/NW8BQs6.jpg](https://i.imgur.com/jO7YKdF.png)https://i.imgur.com/jO7YKdF.png](https://i.imgur.com/jO7YKdF.png)https://i.imgur.com/jO7YKdF.png)
+    ![](https://i.imgur.com/Y4ysE3O.png)
   
