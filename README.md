@@ -17,8 +17,7 @@ Chatbot: Dialogflow, Komunicate
 - Xem sản phẩm, chi tiết sản phẩm, thêm sản phẩm vào giỏ hàng
 - Đặt hàng, xem tiến trình đơn hàng
 - Đánh giá, bình luận sau khi mua hàng
-- Chatbot tư vấn khách hàng <br>
-  ***Màn hình***  <br>
+- Chatbot tư vấn khách hàng
+  ## Màn hình <br>
   _Home_ 
-  _
   ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.imgur.com/NW8BQs6.jpg)
